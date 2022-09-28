@@ -1,0 +1,14 @@
+.navbar-brand {
+    width:20% ;
+   
+}
+.navbar-brand img{
+    width:40% ;
+}
+
+.tprcolor{
+    color:blue;
+}
+a{
+    color: blueviolet !important;
+}
