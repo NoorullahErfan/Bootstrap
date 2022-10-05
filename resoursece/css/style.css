@@ -3,12 +3,46 @@
    
 }
 .navbar-brand img{
-    width:40% ;
+    width:30% ;
+    margin-left: 60 px;
 }
-
-.tprcolor{
-    color:blue;
+header{
+    box-shadow: 0 0 6px #6666;
 }
 a{
     color: blueviolet !important;
+    font-size: 15px;
 }
+.foot{
+    font-size: 15px;
+}
+.menu{
+    font-size: 10px;
+}
+.navespace{
+    height: 100px;
+}
+.pageheader{
+    background-image: url(../images/2.jpg);
+}
+.col1{
+    background-color: rgb(194, 208, 203);
+    justify-content: center;
+    display: flex;
+    flex-direction: column;         
+}
+.foot1{
+    font-size: 12px;
+}
+.socialm{
+    size: 50px;
+    display: block;
+    margin-top: 25px;
+}
+.sma{
+    font-size: 10px;
+}
+.h22{
+    display: block;
+}
+
